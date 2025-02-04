@@ -5,6 +5,6 @@ My first Rust project, a simple tool to count kmers in nucleotide sequences from
 The Implementation in kmeRS is pretty straight forward and not optimized.<br>
 Check out Jellyfish if you need actual speed (https://github.com/gmarcais/Jellyfish)
 
-## USage
+## Usage
 
 `cargo run <infile> <k> <threads>`
