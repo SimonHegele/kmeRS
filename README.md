@@ -7,4 +7,4 @@ Check out Jellyfish if you need actual speed (https://github.com/gmarcais/Jellyf
 
 ## USage
 
-``cargo run <infile> <k> <threads>`
+`cargo run <infile> <k> <threads>`
